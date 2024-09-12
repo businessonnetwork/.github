@@ -1,5 +1,5 @@
 # Business on Network
 
 ### Active Repositories
-- [ckd-backend](https://github.com/businessonnetwork/ckd-backend)
-- [cdk-frontend](https://github.com/businessonnetwork/ckd-frontend)
+- [viable_ckd_backend](https://github.com/businessonnetwork/viable_ckd_backend)
+- [viable_cdk_frontend](https://github.com/businessonnetwork/viable_ckd_frontend)
