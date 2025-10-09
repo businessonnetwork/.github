@@ -2,7 +2,8 @@
 
 ### Active Repositories
 - [viable_ckd_backend](https://github.com/businessonnetwork/viable_ckd_backend)
-- [viable_cdk_frontend](https://github.com/businessonnetwork/viable_ckd_frontend)
+- [viable_ckd_frontend](https://github.com/businessonnetwork/viable_ckd_frontend)
+- [Viable ckd mobile](https://github.com/businessonnetwork/viable_ckd_mobile)
 
 ### Projects
 - [CKD](https://github.com/orgs/businessonnetwork/projects/2)
